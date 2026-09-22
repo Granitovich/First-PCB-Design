@@ -240,7 +240,7 @@
       "internal_id": "",
       "mfg": "",
       "mpn": "",
-      "sch_revision": ""
+      "sch_revision": "1.0"
     },
     "layer_pairs": [],
     "layer_presets": [],
@@ -648,7 +648,7 @@
         "uuid": "8332f25c-6806-4968-af8e-1051e6f60ffc"
       }
     ],
-    "used_designators": "U1-2,#PWR3-23,LED1,S1-2,C1-7,R1-7,J1-5,Q1-2,IC1",
+    "used_designators": "USB1,J6,R8-9,#PWR1-3,#PWR21,#PWR24-28,C7-8,U3",
     "variants": []
   },
   "sheets": [
