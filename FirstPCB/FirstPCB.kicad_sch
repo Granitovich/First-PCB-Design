@@ -7703,7 +7703,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "6bfe6886-8c2c-43ca-be33-56d3da8bc5eb")
-		(property "Reference" "J5"
+		(property "Reference" "J4"
 			(at 258.826 110.998 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7773,7 +7773,7 @@
 		(instances
 			(project "FirstPCB"
 				(path "/8332f25c-6806-4968-af8e-1051e6f60ffc"
-					(reference "J5")
+					(reference "J4")
 					(unit 1)
 				)
 			)
