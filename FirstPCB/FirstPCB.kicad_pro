@@ -648,7 +648,7 @@
         "uuid": "8332f25c-6806-4968-af8e-1051e6f60ffc"
       }
     ],
-    "used_designators": "USB1,J6,R8-9,#PWR1-3,#PWR21,#PWR24-28,C7-8,U3",
+    "used_designators": "",
     "variants": []
   },
   "sheets": [
