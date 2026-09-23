@@ -524,7 +524,7 @@
     "last_paths": {
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "production/",
       "specctra_dsn": "",
       "vrml": ""
     },
@@ -598,14 +598,242 @@
           "label": "Datasheet",
           "name": "Datasheet",
           "show": true
+        },
+        {
+          "group_by": false,
+          "label": "A_min",
+          "name": "A_min",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "A_nom",
+          "name": "A_nom",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Arrow Part Number",
+          "name": "Arrow Part Number",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Arrow Price/Stock",
+          "name": "Arrow Price/Stock",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Availability",
+          "name": "Availability",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Check_prices",
+          "name": "Check_prices",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "D_max",
+          "name": "D_max",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "D_min",
+          "name": "D_min",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "D_nom",
+          "name": "D_nom",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "E_max",
+          "name": "E_max",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "E_min",
+          "name": "E_min",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "E_nom",
+          "name": "E_nom",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Height",
+          "name": "Height",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "L1_max",
+          "name": "L1_max",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "L1_min",
+          "name": "L1_min",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "L1_nom",
+          "name": "L1_nom",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "L_max",
+          "name": "L_max",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "L_min",
+          "name": "L_min",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "L_nom",
+          "name": "L_nom",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "LCSC",
+          "name": "LCSC",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "LCSC Part",
+          "name": "LCSC Part",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "MANUFACTURER",
+          "name": "MANUFACTURER",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Manufacturer Part",
+          "name": "Manufacturer Part",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Manufacturer_Name",
+          "name": "Manufacturer_Name",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Manufacturer_Part_Number",
+          "name": "Manufacturer_Part_Number",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "MF",
+          "name": "MF",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Mouser Part Number",
+          "name": "Mouser Part Number",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Mouser Price/Stock",
+          "name": "Mouser Price/Stock",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "MP",
+          "name": "MP",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "MPN",
+          "name": "MPN",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Package",
+          "name": "Package",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "PARTREV",
+          "name": "PARTREV",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Price",
+          "name": "Price",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "SnapEDA_Link",
+          "name": "SnapEDA_Link",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "STANDARD",
+          "name": "STANDARD",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "A_max",
+          "name": "A_max",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Опис",
+          "name": "Description",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "#",
+          "name": "${ITEM_NUMBER}",
+          "show": false
         }
       ],
       "filter_string": "",
       "group_symbols": true,
       "include_excluded_from_bom": true,
-      "name": "Default Editing",
+      "name": "",
       "sort_asc": true,
-      "sort_field": "Позначення"
+      "sort_field": "Reference"
     },
     "bus_aliases": {},
     "connection_grid_size": 50.0,
