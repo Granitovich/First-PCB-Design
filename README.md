@@ -1,6 +1,7 @@
 # First PCB Design: STM32G0B1KET6 Custom Board
 
 A custom PCB design built around the **STM32G0B1KET6** microcontroller. This project contains a complete hardware design for a minimal development board featuring power management, debugging interfaces, and a directly mounted TFT display.
+<img width="620" height="983" alt="image" src="https://github.com/user-attachments/assets/0a024459-a14b-4164-b831-b123e1e7f10d" />
 
 ---
 
